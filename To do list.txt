@@ -1,0 +1,29 @@
+*** HIGH PRIORITY ***
+
+- add rooms
+- add events in rooms
+- add level up sequence
+- add enemy encounters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*** not so high priority***
+
+
+- randomly generated rooms
+- more enemies
+- add traps
+- add chests
+
+
